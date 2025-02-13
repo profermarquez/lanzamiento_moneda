@@ -8,4 +8,12 @@ La estadística frecuentista es el enfoque más utilizado en la práctica y se b
 /virtualenv env    /env/Scripts/activate
 # requisitos
 pip install scipy
+
+pip install pygame
+
 pip install matplotlib
+
+# Ejecucion 
+py main.py
+
+py simulacion_cara_cruz.py
